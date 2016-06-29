@@ -15,10 +15,12 @@ Note and Practice
 - [ ] Chapter A3
 
 > Learning markdown...
+
 '''C
 while(i--)
 {
     LOOPBODY
 }
 '''
+
 cool :joy:
