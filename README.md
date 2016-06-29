@@ -16,11 +16,11 @@ Note and Practice
 
 > Learning markdown...
 
-'''C
+```C
 while(i--)
 {
     LOOPBODY
 }
-'''
+```
 
 cool :joy:
