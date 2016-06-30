@@ -1,10 +1,13 @@
 # LetsLearnGit
 Note and Practice
-- [X] Chapter 1
-- [X] Chapter 2
-- [X] Chapter 3
+
+(This is a template)
+
+- [ ] Chapter 1
+- [ ] Chapter 2
+- [ ] Chapter 3
 - [ ] Chapter 4
-- [X] Chapter 5
+- [ ] Chapter 5
 - [ ] Chapter 6
 - [ ] Chapter 7
 - [ ] Chapter 8
@@ -14,13 +17,10 @@ Note and Practice
 - [ ] Chapter A2
 - [ ] Chapter A3
 
-> Learning markdown...
+> 引用
 
 ```C
-while(i--)
-{
-    LOOPBODY
-}
+代码
 ```
 
-cool :joy:
+EMOJI :joy:
