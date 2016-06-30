@@ -7,12 +7,12 @@ Note and Practice
 - [ ] Chapter 4
 - [X] Chapter 5
 - [X] Chapter 6
-- [ ] Chapter 7
-- [ ] Chapter 8
-- [ ] Chapter 9
+- [X] Chapter 7
+- [X] Chapter 8
+- [X] Chapter 9
 - [ ] Chapter 10
-- [ ] Chapter A1
-- [ ] Chapter A2
+- [X] Chapter A1
+- [X] Chapter A2
 - [ ] Chapter A3
 
 > Learning markdown...
