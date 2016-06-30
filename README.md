@@ -1,11 +1,12 @@
 # LetsLearnGit
 Note and Practice
+
 - [X] Chapter 1
 - [X] Chapter 2
 - [X] Chapter 3
 - [ ] Chapter 4
 - [X] Chapter 5
-- [ ] Chapter 6
+- [X] Chapter 6
 - [ ] Chapter 7
 - [ ] Chapter 8
 - [ ] Chapter 9
@@ -17,9 +18,13 @@ Note and Practice
 > Learning markdown...
 
 ```C
-while(i--)
+#define study play
+while (i--)
 {
-    LOOPBODY
+    if (rand() % 2)
+        study();
+    else
+        play();
 }
 ```
 
